@@ -21,7 +21,7 @@ return [
             'host' => 'localhost',
             'user' => 'root',
             'pass' => 'root',
-            'dbname' => 'slim_first'
+            'dbname' => 'slim_mvc'
         ]
     ],
 ];
